@@ -2,6 +2,8 @@
 
 A modern, visually stunning gaming channel website built with React, Vite, and Tailwind CSS.
 
+Create by using Claude AI
+
 ## Features ✨
 
 - **Animated Hero Section** with glowing effects and particles
